@@ -2,42 +2,30 @@
 
 🎓 Master in Statistics @ Columbia University  
 🔬 Researcher in tumor evolution, Bayesian inference, and probabilistic modeling  
-📍 Currently a research intern at Irving Institute for Cancer Dynamics, Columbia University
+📍 Research intern at Irving Institute for Cancer Dynamics, Columbia University
 
 ---
 
 ## 🔧 Skills
 - **Languages**: R, Python, MATLAB, LaTeX
-- **Techniques**: Bayesian Inference, ABC-SMC, Random Forests, Time Series
+- **Techniques**: Bayesian Inference · ABC‑SMC · Random Forests · Time Series Analysis
   
 ## 📚 Selected Projects
 
-### 🧬 [DECODE Tumor Subclone Reconstruction](https://github.com/YanjieChen9117/DECODE-Project)
-Bayesian framework for recovering tumor evolutionary parameters from SFS data; integrated ABC-SMC with Distributional RF, evaluated using community benchmarking tools.
+### 🧬 DECODE · Tumor Subclone Reconstruction *(private, code release soon)*
+Packaged a full Bayesian pipeline that recovers tumor evolutionary parameters from SFS data. Integrated ABC‑SMC with Distributional Random Forests and matched community benchmarking standards. Complete algorithm frozen; pipeline repository will be open‑sourced after documentation is finalized.
 
-### 🧠 [AI Teaching Materials - Neural Networks](https://github.com/YanjieChen9117/Azure-AI-Curriculum)
-TA experience at Azure Partners: Designed PyTorch/TensorFlow-based lessons on image classification, object detection, RNNs & transformers. Includes assignments and demos.
+### 🧠 Azure Partners · AI Teaching Assistant *(outputs only)*
+Designed and delivered a deep‑learning curriculum (PyTorch/TensorFlow) covering CNNs, RNNs, transformers, and object detection. Produced graded assignments, demo notebooks, and slide decks; company policy restricts code release, but example model outputs and visualizations are showcased below.
 
-### 📊 [Time Series Forecasting on Alcohol Tax Revenue](https://github.com/YanjieChen9117/TimeSeries-Economics)
-Forecast UK alcohol consumption change post-tax reform using SPSS; proposed resource allocation strategy for £64.9B in expected revenue.
+### 📈 Consumer Behaviour Shift Analysis — The Very Group & University of Liverpool
+Collaborated with The Very Group to quantify post‑crisis shifts in customer spending. Built seasonal ARIMA models to derive theoretical spend curves and detected > 20 % deviation. Identified that *casual credit* users were most affected and that “buy now, pay later” reached a 49.3 % popularity rate. Full PDF report and fit diagnostics available on request.
+
+### 🍺 Alcohol Duty Impact Forecast — HM Revenue & Customs
+Modelled UK alcohol consumption by beverage class under new duty bands. Used multivariate time‑series forecasting to estimate volume changes and incremental tax revenue. Findings inform policy scenarios for optimizing public health and an estimated £64.9 B revenue stream. Detailed report available upon request.
 
 ---
 
 ## 📫 Contact
-- 📍 30 Morningside Dr, New York, NY 10025, USA  
-- 📧 yc4594@columbia.edu
-
-<!--
-**YanjieChen9117/YanjieChen9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- yc4594@columbia.edu  
+- New York, USA

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yanjie Chen
 
-🎓 M.A. in Statistics @ Columbia University  
+🎓 Master in Statistics @ Columbia University  
 🔬 Researcher in tumor evolution, Bayesian inference, and probabilistic modeling  
 📍 Currently a research intern at Irving Institute for Cancer Dynamics, Columbia University
 
@@ -9,16 +9,7 @@
 ## 🔧 Skills
 - **Languages**: R, Python, MATLAB, LaTeX
 - **Techniques**: Bayesian Inference, ABC-SMC, Random Forests, Time Series
-
----
-
-## 📫 Contact
-- 📍 New York, USA  
-- 📧 yc4594@columbia.edu  
-
-<!--
-**YanjieChen9117/YanjieChen9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 ## 📚 Selected Projects
 
 ### 🧬 [DECODE Tumor Subclone Reconstruction](https://github.com/YanjieChen9117/DECODE-Project)
@@ -28,7 +19,16 @@ Bayesian framework for recovering tumor evolutionary parameters from SFS data; i
 TA experience at Azure Partners: Designed PyTorch/TensorFlow-based lessons on image classification, object detection, RNNs & transformers. Includes assignments and demos.
 
 ### 📊 [Time Series Forecasting on Alcohol Tax Revenue](https://github.com/YanjieChen9117/TimeSeries-Economics)
-Forecast UK alcohol consumption change post-tax reform using SPSS; proposed resource allocation strategy for £64.9B in expected revenue.
+Forecast UK alcohol consumption change post-tax reform using SPSS; proposed resource allocation strategy for £64.9B in expected revenue.---
+
+## 📫 Contact
+- 📍 New York, USA  
+- 📧 yc4594@columbia.edu  
+
+<!--
+**YanjieChen9117/YanjieChen9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 

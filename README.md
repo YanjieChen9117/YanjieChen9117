@@ -19,7 +19,7 @@ Bayesian framework for recovering tumor evolutionary parameters from SFS data; i
 TA experience at Azure Partners: Designed PyTorch/TensorFlow-based lessons on image classification, object detection, RNNs & transformers. Includes assignments and demos.
 
 ### 📊 Time Series Forecasting on Alcohol Tax Revenue
-Forecast UK alcohol consumption change post-tax reform using SPSS; proposed resource allocation strategy for £64.9B in expected revenue.
+Forecast UK alcohol consumption change post-tax reform using Garch(1,1) model; proposed resource allocation strategy for £64.9B in expected revenue.
 
 ---
 

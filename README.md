@@ -13,13 +13,13 @@
 ## 📚 Selected Projects
 
 ### 🧬 DECODE Tumor Subclone Reconstruction
-Bayesian framework for recovering tumor evolutionary parameters from SFS data; integrated ABC-SMC with Distributional RF, evaluated using community benchmarking tools.
+Research in IICD, Columbia University. Develop bayesian framework for recovering tumor evolutionary parameters from SFS data; integrated ABC-SMC with Distributional RF, evaluated using community benchmarking tools.
 
 ### 🧠 AI Teaching Materials - Neural Networks
 TA experience at Azure Partners: Designed PyTorch/TensorFlow-based lessons on image classification, object detection, RNNs & transformers. Includes assignments and demos.
 
 ### 📊 Time Series Forecasting on Alcohol Tax Revenue
-Forecast UK alcohol consumption change post-tax reform using Garch(1,1) model; proposed resource allocation strategy for £64.9B in expected revenue.
+Collaborate with "HM Revenue & Customs" and forecast UK alcohol consumption change post-tax reform using Garch(1,1) model; proposed resource allocation strategy for £64.9B in expected revenue.
 
 ---
 

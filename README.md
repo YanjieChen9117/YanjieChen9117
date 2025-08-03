@@ -24,13 +24,11 @@ Forecast UK alcohol consumption change post-tax reform using SPSS; proposed reso
 ---
 
 ## 📫 Contact
-- 📍 New York, USA  
-- 📧 yc4594@columbia.edu  
+- 📍 30 Morningside Dr, New York, NY 10025, USA  
+- 📧 yc4594@columbia.edu
 
 <!--
 **YanjieChen9117/YanjieChen9117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 

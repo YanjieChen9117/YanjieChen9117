@@ -1,7 +1,9 @@
 # 👋 Hi, I'm **Yanjie Chen**
 
 🚀 Deep Learning | Bayesian Inference | Computational Oncology
+
 🎓 Master in Statistics @ Columbia University
+
 🔬 Research Intern · Irving Institute for Cancer Dynamics (IICD)
 
 ---

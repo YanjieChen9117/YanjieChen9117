@@ -33,7 +33,7 @@ Bayesian Inference · ABC‑SMC · Random Forests · Time‑Series · Git
 
 ---
 
-## 📌 Pinned Repositories *(set these in “Customize your pins”)*
+## 📌 Pinned Repositories
 
 | Repo                                                                                   | Description                                         | Tech                   |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------- |

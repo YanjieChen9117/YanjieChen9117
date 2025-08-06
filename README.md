@@ -1,9 +1,7 @@
 # 👋 Hi, I'm **Yanjie Chen**
 
 🚀 Deep Learning | Bayesian Inference | Computational Oncology
-
 🎓 Master in Statistics @ Columbia University
-
 🔬 Research Intern · Irving Institute for Cancer Dynamics (IICD)
 
 ---
@@ -33,14 +31,6 @@
 `PyTorch` · `TensorFlow` · `CUDA`
 Bayesian Inference · ABC‑SMC · Random Forests · Time‑Series · Git
 
----
-
-## 📌 Pinned Repositories
-
-| Repo                                                                                   | Description                                         | Tech                   |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------- |
-| [`deep-learning-portfolio`](https://github.com/YanjieChen9117/deep-learning-portfolio) | 6 end‑to‑end DL case studies (MNIST → Transformers) | PyTorch · Transformers |
-| [`decode`](https://github.com/YanjieChen9117/DECODE)                                   | Bayesian subclone reconstruction from SFS           | R · ABC‑SMC            |
 ---
 
 ## 📫 Contact

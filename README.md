@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Yanjie Chen (Dr. INK)**
+# 👋 Hi, I'm **Yanjie Chen**
 
 🚀 Deep Learning | Bayesian Inference | Computational Oncology
 🎓 Master in Statistics @ Columbia University

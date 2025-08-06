@@ -1,3 +1,65 @@
+# 👋 Hi, I'm **Yanjie Chen (Dr. INK)**
+
+🚀 Deep Learning | Bayesian Inference | Computational Oncology
+🎓 Master in Statistics @ Columbia University
+🔬 Research Intern · Irving Institute for Cancer Dynamics (IICD)
+
+---
+
+## 🌟 Spotlight
+* **DECODE** – Bayesian tumor‑evolution framework (ABC‑SMC‑DRF)
+* **Deep‑Learning‑Portfolio** – 6 hands‑on projects from MLPs to Transformers
+* **AI Teaching Materials** – PyTorch/TensorFlow course & labs
+
+<details>
+  <summary>What I build 🚀</summary>
+
+| Area                       | Highlights                                                     |
+| -------------------------- | -------------------------------------------------------------- |
+| **Computer Vision**        | Transfer learning · Semantic segmentation · Data augmentation  |
+| **NLP**                    | LSTM sentiment analysis · Self‑attention · 4‑bit LLM inference |
+| **Probabilistic Modeling** | ABC‑SMC pipelines · Random‑Forest posteriors                   |
+| **HPC**                    | SLURM workflows · GPU optimization on Columbia’s cluster       |
+
+</details>
+
+---
+
+## 🔧 Toolbox
+
+`Python` · `R` · `MATLAB` · `LaTeX`
+`PyTorch` · `TensorFlow` · `CUDA`
+Bayesian Inference · ABC‑SMC · Random Forests · Time‑Series · Git
+
+---
+
+## 📌 Pinned Repositories *(set these in “Customize your pins”)*
+
+| Repo                                                                                   | Description                                         | Tech                   |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------- |
+| [`deep-learning-portfolio`](https://github.com/YanjieChen9117/deep-learning-portfolio) | 6 end‑to‑end DL case studies (MNIST → Transformers) | PyTorch · Transformers |
+| [`decode`](https://github.com/YanjieChen9117/DECODE)                                   | Bayesian subclone reconstruction from SFS           | R · ABC‑SMC            |
+---
+
+## 📫 Contact
+
+[Email](mailto:yc4594@columbia.edu) • [LinkedIn](https://www.linkedin.com/in/yanjiechen)
+New York, NY, USA
+
+---
+
+<!--
+
+| [`ai-teaching-materials`](https://github.com/YanjieChen9117/ai-teaching-materials)     | Lecture notes & labs for NN course                  | PyTorch · TensorFlow   |
+| [`time-series-alcohol`](https://github.com/YanjieChen9117/alcohol-tax-time-series)     | GARCH forecast of UK alcohol revenue                | R                      |
+
+
+## 📝 Latest Achievements
+
+* **Jul 2025**  Released *Deep‑Learning‑Portfolio* — 95 %+ MNIST, IoU 0.84 segmentation
+* **Apr 2025**  DECODE outperforms Mobster on PCAWG cohort *(pre‑print in prep)*
+* **Feb 2025**  Co‑authored AI curriculum for Azure Partners
+
 # 👋 Hi, I'm Yanjie Chen
 
 🎓 Master in Statistics @ Columbia University  
@@ -27,7 +89,7 @@ Collaborate with "HM Revenue & Customs" and forecast UK alcohol consumption chan
 - 📍 30 Morningside Dr, New York, NY 10025, USA  
 - 📧 yc4594@columbia.edu
 
-<!--
+
 **YanjieChen9117/YanjieChen9117** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

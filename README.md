@@ -2,14 +2,15 @@
 
 🚀 Deep Learning | Bayesian Inference | Computational Oncology
 🎓 Master in Statistics @ Columbia University
-🔬 Research Intern · Irving Institute for Cancer Dynamics (IICD)
+🔬 Research Intern & Staff Associate · Irving Institute for Cancer Dynamics (IICD)
 
 ---
 
 ## 🌟 Spotlight
 * **DECODE** – Bayesian tumor‑evolution framework (ABC‑SMC‑DRF)
+* **SyNG-BTS** - RNA/miRNA data augmentation methods (AE + VAE/GAN)
 * **Deep‑Learning‑Portfolio** – 6 hands‑on projects from MLPs to Transformers
-* **AI Teaching Materials** – PyTorch/TensorFlow course & labs
+* **AI Teaching Materials** – PyTorch course & labs
 
 <details>
   <summary>What I build 🚀</summary>

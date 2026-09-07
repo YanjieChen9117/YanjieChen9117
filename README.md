@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YanjieChen2002/yanjiechen2002.github.io/main/assets/img/prof_pic.jpg" width="148" alt="Yanjie Chen">
-</p>
-
-<h1 align="center">Yanjie Chen</h1>
+<h1 align="center">Hi, I'm Yanjie Chen</h1>
 
 <p align="center">
   <b>Research Staff Associate</b><br>
@@ -35,20 +31,10 @@ I am a Research Staff Associate in the [Dinh Lab](https://dinhngockhanh.github.i
 
 ### Selected writing
 
-1. **Accurate detection of tumor clonality and ongoing expansion mode from genomic data**<br>
-   **Yanjie Chen**, Roman Jaksik, Peter Terranova, Sara El Baghdadi, Andrew Koval, Monika K. Kurpas, Simon Tavaré, Marek Kimmel, and Khanh N. Dinh<br>
-   *bioRxiv*, June 2026<br>
-   [DOI](https://doi.org/10.64898/2026.06.15.732415) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/42367953/) · [code](https://github.com/dinhngockhanh/DECODE)
-
-2. **Automatic perturbation kernels for biological applications of Approximate Bayesian Computation sequential Monte Carlo with random forests**<br>
-   **Yanjie Chen** and Khanh N. Dinh<br>
-   Accepted by *FedCSIS*
-
-3. **Refining breast cancer stratification through improved mutation clustering of genomic samples**<br>
-   **Yanjie Chen** and Khanh N. Dinh<br>
-   Submitted
-
-A manuscript on generative data augmentation for miRNA/RNA-seq, with the Qin Lab, is in preparation.
+**Accurate detection of tumor clonality and ongoing expansion mode from genomic data**<br>
+**Yanjie Chen**, Roman Jaksik, Peter Terranova, Sara El Baghdadi, Andrew Koval, Monika K. Kurpas, Simon Tavaré, Marek Kimmel, and Khanh N. Dinh<br>
+*bioRxiv*, June 2026<br>
+[DOI](https://doi.org/10.64898/2026.06.15.732415) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/42367953/) · [code](https://github.com/dinhngockhanh/DECODE)
 
 ### Software
 
@@ -67,6 +53,7 @@ Other code — including a [deep learning portfolio](https://github.com/YanjieCh
 | Jun 2026 | DECODE [preprint](https://doi.org/10.64898/2026.06.15.732415) posted |
 | Jan 2026 | Started as Research Staff Associate at [IICD](https://cancerdynamics.columbia.edu/yanjie-chen) |
 | Aug 2025 | Joined the Qin Lab at [MSKCC](https://www.mskcc.org/profile/li-xuan-qin) |
+| Jan 2025 | Joined IICD as a part-time Research Intern, advised by [Dr. Khanh N. Dinh](https://cancerdynamics.columbia.edu/khanh-ngoc-dinh-phd) |
 
 ### Education
 
